@@ -110,8 +110,8 @@ Artinya, pengguna perlu **menambahkan section break secara manual** sebelum menj
 5. Halaman setelah cover **hanya menggunakan angka romawi kecil** *(i, ii, iii, ...)*.  
    - Kamu bisa memilih apakah ingin dimulai dari **i** atau **ii**.  
 6. Penempatan nomor halaman:
-  - All Footer = **Footer tengah penuh**  
-  - Kombinasi = Halaman bab: **Footer tengah**, halaman setelah bab: **Header kanan**
+   - All Footer = **Footer tengah penuh**  
+   - Kombinasi = Halaman bab: **Footer tengah**, halaman setelah bab: **Header kanan**
 
 ---
 
