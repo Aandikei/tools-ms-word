@@ -95,8 +95,6 @@ Tersedia **2 mode**:
 
 ---
 
----
-
 ## 📘 Panduan Penomoran Halaman Otomatis
 
 Fitur **penomoran halaman otomatis** pada template ini bergantung pada **section break** di Microsoft Word.  
