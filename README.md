@@ -95,6 +95,52 @@ Tersedia **2 mode**:
 
 ---
 
+---
+
+## 📘 Panduan Penomoran Halaman Otomatis
+
+Fitur **penomoran halaman otomatis** pada template ini bergantung pada **section break** di Microsoft Word.  
+Artinya, pengguna perlu **menambahkan section break secara manual** sebelum menjalankan penomoran.
+
+### 🧩 Cara Penggunaan:
+1. Tempatkan kursor di **akhir bagian sebelumnya** (misalnya di akhir halaman cover).  
+2. Tekan **`Alt + N`** → untuk menambahkan **Section Break (Next Page)**.  
+3. Lalu tekan **`Alt + P`** untuk membuka dialog **Penomoran Halaman Otomatis**.  
+4. Pilih mode yang diinginkan:  
+   - **Mode 1:** Halaman cover dan halaman setelahnya berada dalam satu section (Section 1). Bab 1 dan seterusnya dimulai dari Section 2++.  
+   - **Mode 2:** Halaman cover dan halaman setelahnya berada di section yang berbeda (Cover = Section 1, setelahnya = Section 2, Bab 1 dan seterusnya = Section 3++).  
+5. Halaman setelah cover **hanya menggunakan angka romawi kecil** *(i, ii, iii, ...)*.  
+   - Kamu bisa memilih apakah ingin dimulai dari **i** atau **ii**.  
+6. Penempatan nomor halaman:  
+   - Semua halaman: **Footer tengah penuh**  
+   - Halaman Bab: **Footer tengah**  
+   - Halaman setelah Bab: **Header kanan**
+
+---
+
+### ⚠️ Jika Terjadi Masalah “Double Break”
+
+Kadang tanpa sengaja pengguna menambahkan **lebih dari satu pemisah halaman**, misalnya:  
+- Dua **Section Break (Next Page)** berturut-turut, **atau**  
+- Satu **Section Break** dan satu **Page Break (Ctrl + Enter)** di tempat yang sama.  
+
+Kondisi ini bisa menyebabkan:
+- Munculnya halaman kosong di antara bagian,  
+- Nomor halaman tidak berurutan, atau  
+- Format halaman jadi tidak sesuai.
+
+#### 🛠 Cara Mengatasinya:
+1. Aktifkan tampilan tanda format:  
+   - Tekan **`Ctrl + Shift + 8`** atau klik ikon **¶ (Show/Hide ¶)** di tab *Home*.  
+2. Periksa area antarbagian (misalnya antara cover dan halaman berikutnya).  
+3. Jika terlihat **lebih dari satu pemisah** (baik *Page Break* maupun *Section Break*), hapus yang berlebih.  
+4. Pastikan **hanya ada satu Section Break** antara dua bagian utama.  
+5. Setelah itu, jalankan kembali penomoran otomatis dengan **`Alt + P`**.
+
+> 💡 **Tips:** Gunakan tampilan *Draft View* di Word agar lebih mudah mendeteksi posisi *Page Break* dan *Section Break*.
+
+---
+
 ## 🧠 Tujuan Pembuatan
 
 Template ini dibuat untuk membantu mahasiswa dalam menulis dokumen akademik dengan format yang konsisten, profesional, dan efisien, tanpa perlu mengatur layout dari awal.
@@ -105,6 +151,13 @@ Template ini dibuat untuk membantu mahasiswa dalam menulis dokumen akademik deng
 
 Kamu bisa mengunduh file template melalui link berikut:  
 ➡️ [Download Normal.dotm Template (RAR)](https://github.com/Aandikei/tools-ms-word/releases/tag/word)
+
+---
+
+## ✉️ Kontak
+
+Jika kamu memiliki pertanyaan, menemukan masalah, atau ingin memberikan saran terkait template ini, silakan hubungi:  
+📧 **andiahmad9288@gmail.com**
 
 ---
 
