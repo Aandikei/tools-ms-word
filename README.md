@@ -38,6 +38,8 @@ Dengan template ini, kamu tidak perlu lagi repot mengatur format setiap kali mem
 3. Ganti file Normal.dotm dengan file yang baru.
 4. Buka kembali Word untuk mulai menggunakan template.
 
+---
+
 ## ✨ Fitur Utama Template
 
 ### 📐 Format Dasar
