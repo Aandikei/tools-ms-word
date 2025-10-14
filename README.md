@@ -104,7 +104,7 @@ Template ini dibuat untuk membantu mahasiswa dalam menulis dokumen akademik deng
 ## 📦 Download Template
 
 Kamu bisa mengunduh file template melalui link berikut:  
-➡️ [Download Normal.dotm Template (RAR)](https://github.com/Aandikei/tools-ms-word/releases/latest/download/NormalTemplate.rar)
+➡️ [Download Normal.dotm Template (RAR)](https://github.com/Aandikei/tools-ms-word/releases/latest/download/TEMPLATE.WORD.-.Copy.rar)
 
 ---
 
