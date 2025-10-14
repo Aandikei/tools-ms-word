@@ -175,5 +175,5 @@ Namun, beberapa perilaku tampilan atau shortcut key mungkin sedikit berbeda pada
 ## 📬 Kredit
 
 Dibuat oleh **Andi**  
-📎 File dan pembaruan bisa diakses melalui repository ini.
+📎 File dan pembaruan bisa diakses melalui repository ini.  
 📎 Dilarang keras memperjual-belikan template ini demi keuntungan pribadi atau suatu pihak.
