@@ -109,7 +109,7 @@ Artinya, pengguna perlu **menambahkan section break secara manual** sebelum menj
    - **Mode 2:** Halaman cover dan halaman setelahnya berada di section yang berbeda (Cover = Section 1, setelahnya = Section 2, Bab 1 dan seterusnya = Section 3++).  
 5. Halaman setelah cover **hanya menggunakan angka romawi kecil** *(i, ii, iii, ...)*.  
    - Kamu bisa memilih apakah ingin dimulai dari **i** atau **ii**.  
-6. Penempatan nomor halaman:  
+6. Penempatan nomor halaman:
   - All Footer = **Footer tengah penuh**  
   - Kombinasi = Halaman bab: **Footer tengah**, halaman setelah bab: **Header kanan**
 
