@@ -49,6 +49,10 @@ Dengan template ini, kamu tidak perlu lagi repot mengatur format setiap kali mem
 
 ### 🧭 Heading & Struktur Dokumen
 Telah disiapkan **Heading 1–5** sesuai kebutuhan penulisan:
+- **Style Heading:**
+  - **Heading 1 – Front:** digunakan untuk halaman sebelum BAB seperti *Lembar Persetujuan*, *Lembar Pengesahan*, *Kata Pengantar*, dll  
+  - **Heading 1:** digunakan untuk judul bab utama  
+  - **Heading 2 – Heading 5:** digunakan untuk subbab hingga 5 level
 
 | Level | Contoh | Shortcut |
 |:------|:--------|:----------|
