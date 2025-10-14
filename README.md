@@ -90,8 +90,8 @@ Tersedia **2 mode**:
 **Pilihan tambahan:**
 - Nomor halaman setelah cover bisa menggunakan **i** atau **ii**.  
 - Penempatan nomor halaman:
-  - Semua halaman: **Footer tengah penuh**  
-  - Halaman bab: **Footer tengah**, halaman setelah bab: **Header kanan**
+  - All Footer = **Footer tengah penuh**  
+  - Kombinasi = Halaman bab: **Footer tengah**, halaman setelah bab: **Header kanan**
 
 ---
 
@@ -110,9 +110,8 @@ Artinya, pengguna perlu **menambahkan section break secara manual** sebelum menj
 5. Halaman setelah cover **hanya menggunakan angka romawi kecil** *(i, ii, iii, ...)*.  
    - Kamu bisa memilih apakah ingin dimulai dari **i** atau **ii**.  
 6. Penempatan nomor halaman:  
-   - Semua halaman: **Footer tengah penuh**  
-   - Halaman Bab: **Footer tengah**  
-   - Halaman setelah Bab: **Header kanan**
+  - All Footer = **Footer tengah penuh**  
+  - Kombinasi = Halaman bab: **Footer tengah**, halaman setelah bab: **Header kanan**
 
 ---
 
@@ -156,6 +155,14 @@ Kamu bisa mengunduh file template melalui link berikut:
 
 Jika kamu memiliki pertanyaan, menemukan masalah, atau ingin memberikan saran terkait template ini, silakan hubungi:  
 📧 **andiahmad9288@gmail.com**
+
+---
+
+## 🧪 Testing Information
+
+Template ini telah diuji menggunakan **Microsoft Word 2013 (versi Windows)**.  
+Fungsi dan shortcut telah dipastikan berjalan dengan baik pada versi ini.  
+Namun, beberapa perilaku tampilan atau shortcut key mungkin sedikit berbeda pada versi Word yang lebih baru.
 
 ---
 
