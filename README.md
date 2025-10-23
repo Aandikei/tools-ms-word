@@ -72,10 +72,10 @@ Gunakan shortcut berikut untuk menampilkan daftar otomatis:
 | Fungsi | Shortcut | Keterangan |
 |:--------|:-----------|:------------|
 | Tampilkan **Daftar Isi** | `Alt + D` | Membuat daftar isi otomatis |
-| Tampilkan **Daftar Gambar** | `Alt + G` | Membuat daftar gambar otomatis |
-| Tampilkan **Daftar Tabel** | `Alt + T` | Membuat daftar tabel otomatis |
-| Tambahkan **Caption Gambar** | `Alt + Shift + G` | Menambahkan label dan nomor gambar |
-| Tambahkan **Caption Tabel** | `Alt + Shift + T` | Menambahkan label dan nomor tabel |
+| Tampilkan **Daftar Gambar** | `Alt + Shift + G` | Membuat daftar gambar otomatis |
+| Tampilkan **Daftar Tabel** | `Alt + Shift + T` | Membuat daftar tabel otomatis |
+| Tambahkan **Caption Gambar** | `Alt + G` | Menambahkan label dan nomor gambar |
+| Tambahkan **Caption Tabel** | `Alt + T` | Menambahkan label dan nomor tabel |
 | **Update Daftar Isi** | `Alt + U` | *Hanya memperbarui daftar isi, bukan gambar/tabel!* |
 
 > 🟡 **Catatan:** Jika ingin memperbarui *daftar gambar* atau *daftar tabel*, hapus daftar lama lalu tampilkan ulang dengan shortcut `Alt + G` atau `Alt + T`.
